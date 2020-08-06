@@ -1,0 +1,21 @@
+img{
+	width:30%;
+	float:left;
+	margin:1.66%;
+	height:300px;
+
+}
+body{
+	background:#AD8CB0;
+
+}
+
+h1{
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align:center;
+	font-size:25px;
+	border-bottom:3px double #1f1f1f;
+	padding:20px;
+	width:30%;
+	margin:0 auto;
+}
